@@ -6,13 +6,13 @@ body {
     margin: 0;
     min-height: 100vh;
 
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman';
 
     display: flex;
     justify-content: center;
     align-items: center;
 
-    background: #f5f7fa;
+    background: #0066ff;
 }
 
 .container {
@@ -23,7 +23,7 @@ body {
 
     text-align: center;
 
-    background: white;
+    background: rgb(178, 3, 237);
 
     border: 1px solid #ddd;
     border-radius: 12px;
